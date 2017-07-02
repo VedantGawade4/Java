@@ -1,2 +1,1 @@
-# Java
-This repository contains codes related to concepts in java, which are well commeted to help you understand better
+VShare is a file sharing application, through which you can send/receive a file between two machines.
